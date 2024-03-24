@@ -21,7 +21,7 @@
 <p align="left">
 <a href="https://twitter.com/@mm_tobi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mm_tobi_" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/mahmoudoluwatobi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mahmoudoluwatobi/" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uct_7mkvmg7k7iwdqnbnb_4g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uct_7mkvmg7k7iwdqnbnb_4g" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/uct_7mkvmg7k7iwdqnbnb_4g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uct_7mkvmg7k7iwdqnbnb_4g" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/mavrik-jnr/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/mavrik-jnr/" height="30" width="40" /></a>
 </p>
 
